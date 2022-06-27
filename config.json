@@ -1,0 +1,138 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": true,
+      "maps": false,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+        "name": "Cda's Morph [ALPHA]",
+        "role": "Cda's Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the hostile mobs as stated by Minecraft Gamepedia. You are able to morph into mobs and take their appearance, abilities, and more using items that you can either craft or get by killing a mob.  Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like 'It doesn't work', (because it works) check the troubleshooting section. If you have issues with that, then contact me. For something that you think is a bug, report it on GitHub if it hasn't already been reported. This add-on allows you to morph into any mob. With this add-on you have at your disposal 71 different mobs Morph items that you may use to morph into the mobs, as well as an item to morph back into your regular Player.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/2/cdasMorphV0.0.7.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png"
+    },
+    {
+        "name": "DG Morph Add-On",
+        "role": "DG Morph Add-On Morph Mod for Minecraft Pocket/Bedrock Edition, You can Morph in any differents mobs in your world, also this mod pack tested and used in Minecraft 1.17 Update. .  Using this Morph Add-On you can Morph in differents variants mobs skins and you will have the ability of every mobs that you morph.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/3/dua.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/3/DG Morph v1 [no Models].mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/3/tiga.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/3/satu.png"
+    },
+    {
+        "name": "Block Disguise Add-on",
+        "role": "Have you ever wanted to disguise or morph as a block, and camouflage skins weren't good enough? Well this is the addon for you! If you stand still for 3 seconds, you will become completely hidden as a block! The morphs are also craftable.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/5/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/5/blockdisguise.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/5/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/5/dua.png"
+    },
+    {
+        "name": "Dragon Morph Add-on",
+        "role": "This is an add-on which lets you morph into an ender dragon with the flying effect. Experience Minecraft as the one and only Ender Dragon - definitely something else than playing as Steve or Alex! ;)",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/8/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/8/Ender_dragon_morph.mcaddon",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/8/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/8/dua.png"
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/M7GXgwCwn6lw3Q0bJrGb8KPdV65CfIJrQlvCEJHpFosFj2tB2GCDrqDWEEhutGEL8vKQ-HJv6zOAdatYtMRIu7i77-5YHZwihpJt",
+    "view_skin": "https://lh3.googleusercontent.com/1LnKARbdLax3UERagViESTO0o6yEQNtGm63buE8sIdc-j29m4NZhPYV8RW33_5TgOvQKHqRgXOSINiU3MRB9MjOKMULkmiadpH4"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/hp6jnNCI8aQhiwAk2QB72WnfBdBwTeMazHmVOirJaFRZX7_RhrGOjl6RUU3hjz-xkU_A_Sa0MFF1Kt-0lMy4R1myDGABXJih8AI",
+    "view_skin": "https://lh3.googleusercontent.com/Qq07fJvMWUwh7op1sA1ruzZ3LAJdEHyIenRX3a63QfSI5pGqFnPbquyUJ2EefQAsThEtcYvxWP_lyoPcuou4tqShUTt7wWwxbUs"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/D4P-rcc0d36Vvv6qlaf1w9N6yT_CuUCyY2ezgHjex4dqPbJBfDf5hMucTzGKEGPC6DPWihLDo9bboyht08tZnoyO8duxkF-9i6Wq",
+    "view_skin": "https://lh3.googleusercontent.com/raWnedV4r3zbpnGjQlmAwiWwnUb7ZmhflvyB8EN-y7yGr6Ev2jHL7QepPjJxxg36JaIWLQTbsYod-TcNQAVX7Lgg-_NBwEmo8Q"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/MMilCgG6a21KzqbyxrySKY7sVLGdtGGM-nedK8wTg8zZ-Kvu_s7KMoJUlxPvlaTFMaD8AgEtKi_LEmrU7hzmS3guk7Y7Ahe9H9k",
+    "view_skin": "https://lh3.googleusercontent.com/n5Ay6IIaU1LM_kxiCIBnZnzCl2yRhyEkl-dT9wMzP-e-kRJOsjaKl6Id6ag1_8QpC6ddOHFQ1DqMbMozorw3hIDTRN1BEp1t_8Q"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/BQhrs-vqxczM-1LRaRjJUbF3_0XIkGN15X90AEQQE-oLOYpXKlRumwnIzmMDzOrNroPqhLzBJIsm7SAlsO1Pd80QqHO_4nROPwE",
+    "view_skin": "https://lh3.googleusercontent.com/XNDO-riXw1-AsEfMjoWfNjTRdrUNX6OYLh_VUj5ZJG0VApuvadZdIg__IhiWLF3Z_XelKJRd10HRj3L13hI9DMDmdCq_5ynMHew"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
