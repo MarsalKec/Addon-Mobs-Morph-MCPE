@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,36 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Cda's Morph [ALPHA]",
-        "role": "Cda's Morph Add-on brings the popular Java Edition Morph Mod onto Bedrock Edition! This currently supports all the hostile mobs as stated by Minecraft Gamepedia. You are able to morph into mobs and take their appearance, abilities, and more using items that you can either craft or get by killing a mob.  Please note that I am fully, 100% aware of many issues. I am working on fixing them. For a question like 'It doesn't work', (because it works) check the troubleshooting section. If you have issues with that, then contact me. For something that you think is a bug, report it on GitHub if it hasn't already been reported. This add-on allows you to morph into any mob. With this add-on you have at your disposal 71 different mobs Morph items that you may use to morph into the mobs, as well as an item to morph back into your regular Player.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/2/cdasMorphV0.0.7.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/2/satu.png"
-    },
-    {
-        "name": "DG Morph Add-On",
-        "role": "DG Morph Add-On Morph Mod for Minecraft Pocket/Bedrock Edition, You can Morph in any differents mobs in your world, also this mod pack tested and used in Minecraft 1.17 Update. .  Using this Morph Add-On you can Morph in differents variants mobs skins and you will have the ability of every mobs that you morph.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/3/dua.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/3/DG Morph v1 [no Models].mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/3/tiga.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/3/satu.png"
-    },
-    {
-        "name": "Block Disguise Add-on",
-        "role": "Have you ever wanted to disguise or morph as a block, and camouflage skins weren't good enough? Well this is the addon for you! If you stand still for 3 seconds, you will become completely hidden as a block! The morphs are also craftable.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/5/tiga.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/5/blockdisguise.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/5/satu.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/5/dua.png"
-    },
-    {
-        "name": "Dragon Morph Add-on",
-        "role": "This is an add-on which lets you morph into an ender dragon with the flying effect. Experience Minecraft as the one and only Ender Dragon - definitely something else than playing as Steve or Alex! ;)",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/8/tiga.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/8/Ender_dragon_morph.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/8/satu.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/8/dua.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
